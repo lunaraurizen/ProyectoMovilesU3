@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462916681688",
+    "project_id": "proyectosolucionesmoviles",
+    "storage_bucket": "proyectosolucionesmoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462916681688:android:2b7d715460b8d5303d3cad",
+        "android_client_info": {
+          "package_name": "com.example.app_movil_alquiler_inmuebles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462916681688-4lmr1v2sqlqfnun15kidqjcut8tq2l0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHjIJYmyZkBom8U9vpNY8sb1OKm6L3aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462916681688-4lmr1v2sqlqfnun15kidqjcut8tq2l0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
